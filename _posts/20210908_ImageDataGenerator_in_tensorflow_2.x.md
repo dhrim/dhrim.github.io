@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'ensorFlow 2.x에서의 ImageDataGenerator로 데이터 증강 시 학습 안되는 현상 픽스'
+title: "ensorFlow 2.x에서의 ImageDataGenerator로 데이터 증강 시 학습 안되는 현상 픽스"
 ---
 
 # TensorFlow 2.x에서의 ImageDataGenerator
