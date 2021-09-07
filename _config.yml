@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "임도형"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "딥러닝 구축 컨설팅 대표"
   location         : "Somewhere"
   email            :
   links:
