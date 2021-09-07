@@ -1,3 +1,8 @@
+---
+layout: single
+title: 'ensorFlow 2.x에서의 ImageDataGenerator로 데이터 증강 시 학습 안되는 현상 픽스'
+---
+
 # TensorFlow 2.x에서의 ImageDataGenerator
 
 TensorFlow 1.x에서 ImageDataGenerator로 데이터 증강하여 학습 잘했었는데, 2.x에서 학습이 안되었다.<br>
